@@ -10,7 +10,7 @@ Once you've created a project and installed dependencies with `npm install`, run
 
  You can build the app by `npm run build`.
 
-### References
+## References
 
 Data of the weather is from Hong Kong Observatory, ref: https://www.hko.gov.hk/en/weatherAPI/doc/files/HKO_Open_Data_API_Documentation.pdf
 
