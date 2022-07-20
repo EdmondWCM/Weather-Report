@@ -1,6 +1,6 @@
 # WeatherReport
 
-A website that can tell you the weather forecast.
+A website that can tell you the weather forecast in Hong Kong.
 
 ## Install
 
